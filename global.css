@@ -1,0 +1,17 @@
+:root {
+    --black: hsl(0, 0%, 0%);
+    --white: hsl(0, 0%, 100%);
+
+    --blue-violet: hsl(271, 76%, 53%);
+
+    font-size: 62.5%;
+}
+
+*, *::after, *::before {
+    margin: 0;
+    padding: 0;
+
+    box-sizing: border-box;
+
+    font-family: sans-serif;
+}
